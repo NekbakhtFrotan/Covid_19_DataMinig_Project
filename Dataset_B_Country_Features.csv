@@ -1,0 +1,216 @@
+﻿Continent,Country,Date of First Case(s),Last Visited Country(s) of Confirmed Case(s),Confirmed Case(s) at First Day,Age of First Case(s),Date of First Death(s),Age of First Death(s),Days_Since_Global_First_Case,First_Case_Month,First_Case_Month_Name,First_Case_Week,First_Case_DayOfYear,First_Case_Quarter,First_Case_Year,Has_Travel_Origin,Origin_Count,Multiple_Origins,Origin,Death_Recorded,Days_To_First_Death,Multiple_First_Day_Cases
+Asia,China,2019-11-17,Starting Country,1,55,,,0,11,November,46,321,4,2019,True,1,False,Starting Country,False,,False
+Europe,France,2019-12-27,,1,43,2020-02-15,80,40,12,December,52,361,4,2019,False,0,False,,True,50.0,False
+Asia,Nepal,2020-01-13,China,1,32,2020-05-16,29,57,1,January,3,13,1,2020,True,1,False,China,True,124.0,False
+Asia,Thailand,2020-01-13,China,1,61,2020-03-01,35,57,1,January,3,13,1,2020,True,1,False,China,True,48.0,False
+Asia,Japan,2020-01-16,China,1,30+,2020-02-13,80+,60,1,January,3,16,1,2020,True,1,False,China,True,28.0,False
+Asia,South Korea,2020-01-20,China,1,35,2020-02-20,63,64,1,January,4,20,1,2020,True,1,False,China,True,31.0,False
+North America,United States,2020-01-21,China,1,35,2020-02-06,57,65,1,January,4,21,1,2020,True,1,False,China,True,16.0,False
+Asia,Taiwan,2020-01-21,China,1,50,2020-02-16,61,65,1,January,4,21,1,2020,True,1,False,China,True,26.0,False
+Asia,Singapore,2020-01-23,China,1,66,2020-03-21,"75,64",67,1,January,4,23,1,2020,True,1,False,China,True,58.0,False
+Asia,Vietnam,2020-01-23,China,1,66,,,67,1,January,4,23,1,2020,True,1,False,China,False,,False
+Australia,Australia,2020-01-25,China,4,"50+,50+30+,40+",2020-03-01,78,69,1,January,4,25,1,2020,True,1,False,China,True,36.0,True
+Asia,Malaysia,2020-01-25,China,3,"65,2,11",2020-03-17,"60,34",69,1,January,4,25,1,2020,True,1,False,China,True,52.0,True
+North America,Canada,2020-01-25,China,1,50+,2020-03-09,,69,1,January,4,25,1,2020,True,1,False,China,True,44.0,False
+Asia,Sri Lanka,2020-01-27,China,1,43,2020-03-28,65,71,1,January,5,27,1,2020,True,1,False,China,True,61.0,False
+Europe,Germany,2020-01-27,China,1,33,2020-03-10,"89,78",71,1,January,5,27,1,2020,True,1,False,China,True,43.0,False
+Asia,Cambodia,2020-01-27,China,1,60,,,71,1,January,5,27,1,2020,True,1,False,China,False,,False
+Asia,United Arab Emirates,2020-01-29,China,1,73,2020-03-20,"78,58",73,1,January,5,29,1,2020,True,1,False,China,True,51.0,False
+Asia,Philippines,2020-01-30,China,1,38,2020-02-01,44,74,1,January,5,30,1,2020,True,1,False,China,True,2.0,False
+Asia,India,2020-01-30,China,1,,2020-03-13,76,74,1,January,5,30,1,2020,True,1,False,China,True,43.0,False
+Europe,Italy,2020-01-31,China,2,,2020-02-22,78,75,1,January,5,31,1,2020,True,1,False,China,True,22.0,True
+Europe,United Kingdom,2020-01-31,China,2,"50, 23",2020-03-05,70+,75,1,January,5,31,1,2020,True,1,False,China,True,34.0,True
+Europe,Sweden,2020-01-31,China,1,20,2020-03-11,70+,75,1,January,5,31,1,2020,True,1,False,China,True,40.0,False
+Europe,Spain,2020-01-31,Germany,1,,2020-02-13,69,75,1,January,5,31,1,2020,True,1,False,Germany,True,13.0,False
+Asia,Russia,2020-01-31,Iran,2,,2020-03-19,79,75,1,January,5,31,1,2020,True,1,False,Iran,True,48.0,True
+Europe,Belgium,2020-02-04,China,1,54,2020-03-11,"90,73,86",79,2,February,6,35,1,2020,True,1,False,China,True,36.0,False
+Africa,Egypt,2020-02-14,China,1,32,2020-03-08,60,89,2,February,7,45,1,2020,True,1,False,China,True,23.0,False
+Asia,Iran,2020-02-19,China,2,,2020-02-20,,94,2,February,8,50,1,2020,True,1,False,China,True,1.0,True
+Asia,Lebanon,2020-02-21,Iran,1,45,2020-03-10,56,96,2,February,8,52,1,2020,True,1,False,Iran,True,18.0,False
+Asia,Bahrain,2020-02-21,"Iran, United Arab Emirates",1,,2020-03-16,65,96,2,February,8,52,1,2020,True,2,True,Iran,True,24.0,False
+Asia,Bahrain,2020-02-21,"Iran, United Arab Emirates",1,,2020-03-16,65,96,2,February,8,52,1,2020,True,2,True,United Arab Emirates,True,24.0,False
+Asia,Israel,2020-02-21,Japan ,1,,2020-04-18,78,96,2,February,8,52,1,2020,True,1,False,Japan,True,57.0,False
+Asia,Iraq,2020-02-22,Iran,1,,2020-03-04,63,97,2,February,8,53,1,2020,True,1,False,Iran,True,11.0,False
+Asia,Afghanistan,2020-02-24,Iran,1,35,2020-02-26,40,99,2,February,9,55,1,2020,True,1,False,Iran,True,2.0,False
+Asia,Kuwait,2020-02-24,Iran,3,"61,53, No Trace",2020-04-04,46,99,2,February,9,55,1,2020,True,1,False,Iran,True,40.0,True
+Asia,Oman,2020-02-24,Iran,2,,2020-03-31,72,99,2,February,9,55,1,2020,True,1,False,Iran,True,36.0,True
+Africa,Algeria,2020-02-25,Italy,1,,2020-03-12,67,100,2,February,9,56,1,2020,True,1,False,Italy,True,16.0,False
+Europe,Austria,2020-02-25,Italy,2,24,2020-03-12,69,100,2,February,9,56,1,2020,True,1,False,Italy,True,16.0,True
+Europe,Croatia,2020-02-25,Italy,1,26,2020-05-16,70,100,2,February,9,56,1,2020,True,1,False,Italy,True,81.0,False
+Europe,Switzerland,2020-02-25,Italy,1,74,2020-03-05,74,100,2,February,9,56,1,2020,True,1,False,Italy,True,9.0,False
+Europe,Norway,2020-02-26,China,3,,2020-03-12,,101,2,February,9,57,1,2020,True,1,False,China,True,15.0,True
+Asia,Pakistan,2020-02-26,Iran,2,"22, No Trace",2020-03-20,77,101,2,February,9,57,1,2020,True,1,False,Iran,True,23.0,True
+Asia,Georgia,2020-02-26,"Iran, Azerbaijan",1,,2020-03-12,67,101,2,February,9,57,1,2020,True,2,True,Iran,True,15.0,False
+Asia,Georgia,2020-02-26,"Iran, Azerbaijan",1,,2020-03-12,67,101,2,February,9,57,1,2020,True,2,True,Azerbaijan,True,15.0,False
+South America,Brazil,2020-02-26,Italy,1,61,2020-04-10,15,101,2,February,9,57,1,2020,True,1,False,Italy,True,44.0,False
+Europe,North Macedonia,2020-02-26,Italy,1,49,2020-03-22,57,101,2,February,9,57,1,2020,True,1,False,Italy,True,25.0,False
+Europe,Greece,2020-02-26,Italy,1,38,2020-03-12,66,101,2,February,9,57,1,2020,True,1,False,Italy,True,15.0,False
+Europe,Romania,2020-02-26,Italy,1,,2020-03-22,67,101,2,February,9,57,1,2020,True,1,False,Italy,True,25.0,False
+Europe,Finland,2020-02-26,Italy,1,,2020-03-20,,101,2,February,9,57,1,2020,True,1,False,Italy,True,23.0,False
+Asia,Qatar,2020-02-27,Iran,1,36,2020-03-28,57,102,2,February,9,58,1,2020,True,1,False,Iran,True,30.0,False
+Europe,Estonia,2020-02-27,Iran,1,,2020-03-25,83,102,2,February,9,58,1,2020,True,1,False,Iran,True,27.0,False
+Africa,Nigeria,2020-02-27,Italy,1,,2020-03-23,67,102,2,February,9,58,1,2020,True,1,False,Italy,True,25.0,False
+Europe,Netherlands,2020-02-27,Italy,1,56,2020-03-06,86,102,2,February,9,58,1,2020,True,1,False,Italy,True,8.0,False
+Europe,San Marino,2020-02-27,Italy,1,88,2020-03-01,88,102,2,February,9,58,1,2020,True,1,False,Italy,True,3.0,False
+Europe,Denmark,2020-02-27,Italy,1,,2020-03-12,,102,2,February,9,58,1,2020,True,1,False,Italy,True,14.0,False
+Asia,Azerbaijan,2020-02-28,Iran,1,,2020-03-12,51,103,2,February,9,59,1,2020,True,1,False,Iran,True,13.0,False
+Europe,Belarus,2020-02-28,Iran,1,,2020-03-31,75,103,2,February,9,59,1,2020,True,1,False,Iran,True,32.0,False
+Australia,New Zealand,2020-02-28,"Iran, Indonesia",1,60+,2020-03-29,70+,103,2,February,9,59,1,2020,True,2,True,Iran,True,30.0,False
+Australia,New Zealand,2020-02-28,"Iran, Indonesia",1,60+,2020-03-29,70+,103,2,February,9,59,1,2020,True,2,True,Indonesia,True,30.0,False
+North America,Mexico,2020-02-28,Italy,3,"35,59,41",2020-03-18,41,103,2,February,9,59,1,2020,True,1,False,Italy,True,19.0,True
+Europe,Iceland,2020-02-28,Italy,1,40+,2020-03-24,70,103,2,February,9,59,1,2020,True,1,False,Italy,True,25.0,False
+Europe,Lithuania,2020-02-28,Italy,1,39,2020-03-20,83,103,2,February,9,59,1,2020,True,1,False,Italy,True,21.0,False
+Europe,Luxembourg,2020-02-29,Italy,1,40+,2020-03-13,94,104,2,February,9,60,1,2020,True,1,False,Italy,True,13.0,False
+Europe,Ireland,2020-02-29,Italy,1,,2020-03-11,,104,2,February,9,60,1,2020,True,1,False,Italy,True,11.0,False
+Europe,Monaco,2020-02-29,,1,,2020-03-28,,104,2,February,9,60,1,2020,False,0,False,,True,28.0,False
+South America,Ecuador,2020-02-29,Spain,1,70+,2020-03-14,,104,2,February,9,60,1,2020,True,1,False,Spain,True,14.0,False
+Asia,Armenia,2020-03-01,Iran,1,29,2020-03-26,72,105,3,March,9,61,1,2020,True,1,False,Iran,True,25.0,False
+North America,Dominican Republic,2020-03-01,Italy,1,63,2020-03-16,47,105,3,March,9,61,1,2020,True,1,False,Italy,True,15.0,False
+Europe,Czech Republic,2020-03-01,Italy,3,,2020-03-23,95,105,3,March,9,61,1,2020,True,1,False,Italy,True,22.0,True
+Africa,Senegal,2020-03-02,France,1,54,2020-04-01,68,106,3,March,10,62,1,2020,True,1,False,France,True,30.0,False
+Asia,Saudi Arabia,2020-03-02,"Iran, Bahrain",1,,2020-03-23,51,106,3,March,10,62,1,2020,True,2,True,Iran,True,21.0,False
+Asia,Saudi Arabia,2020-03-02,"Iran, Bahrain",1,,2020-03-23,51,106,3,March,10,62,1,2020,True,2,True,Bahrain,True,21.0,False
+Africa,Tunisia,2020-03-02,Italy,1,40,2020-03-19,72,106,3,March,10,62,1,2020,True,1,False,Italy,True,17.0,False
+Europe,Andorra,2020-03-02,Italy,1,20,2020-03-22,88,106,3,March,10,62,1,2020,True,1,False,Italy,True,20.0,False
+Africa,Morocco,2020-03-02,Italy,1,,2020-03-10,89,106,3,March,10,62,1,2020,True,1,False,Italy,True,8.0,False
+Europe,Latvia,2020-03-02,Italy,1,99,2020-04-03,99,106,3,March,10,62,1,2020,True,1,False,Italy,True,32.0,False
+Asia,Jordan,2020-03-02,Italy ,1,,2020-03-28,83,106,3,March,10,62,1,2020,True,1,False,Italy,True,26.0,False
+Europe,Portugal,2020-03-02,"Italy, Spain",2,"60,33",2020-03-16,80,106,3,March,10,62,1,2020,True,2,True,Italy,True,14.0,True
+Europe,Portugal,2020-03-02,"Italy, Spain",2,"60,33",2020-03-16,80,106,3,March,10,62,1,2020,True,2,True,Spain,True,14.0,True
+Asia,Indonesia,2020-03-02,Japan,2,"64,31",2020-03-11,53,106,3,March,10,62,1,2020,True,1,False,Japan,True,9.0,True
+South America,Argentina,2020-03-03,Italy,1,43,2020-03-08,64,107,3,March,10,63,1,2020,True,1,False,Italy,True,5.0,False
+South America,Chile,2020-03-03,Italy,1,33,2020-03-22,83,107,3,March,10,63,1,2020,True,1,False,Italy,True,19.0,False
+Europe,Ukraine,2020-03-03,"Italy, Romania ",1,,2020-03-13,71,107,3,March,10,63,1,2020,True,2,True,Italy,True,10.0,False
+Europe,Ukraine,2020-03-03,"Italy, Romania ",1,,2020-03-13,71,107,3,March,10,63,1,2020,True,2,True,Romania,True,10.0,False
+Europe,Liechtenstein,2020-03-03,Switzerland,1,,2020-04-04,,107,3,March,10,63,1,2020,True,1,False,Switzerland,True,32.0,False
+Europe,Poland,2020-03-04,Germany,1,57,2020-03-12,57,108,3,March,10,64,1,2020,True,1,False,Germany,True,8.0,False
+Europe,Hungary,2020-03-04,Iran,2,,2020-03-15,75,108,3,March,10,64,1,2020,True,1,False,Iran,True,11.0,True
+Europe,Slovenia,2020-03-04,Italy,1,,2020-03-14,,108,3,March,10,64,1,2020,True,1,False,Italy,True,10.0,False
+Asia,West Bank and Gaza,2020-03-05,"Greece, Pakistan, Egypt",7,,2020-03-25,60,109,3,March,10,65,1,2020,True,3,True,Greece,True,20.0,True
+Asia,West Bank and Gaza,2020-03-05,"Greece, Pakistan, Egypt",7,,2020-03-25,60,109,3,March,10,65,1,2020,True,3,True,Pakistan,True,20.0,True
+Asia,West Bank and Gaza,2020-03-05,"Greece, Pakistan, Egypt",7,,2020-03-25,60,109,3,March,10,65,1,2020,True,3,True,Egypt,True,20.0,True
+Africa,South Africa,2020-03-05,Italy,1,38,2020-03-27,48,109,3,March,10,65,1,2020,True,1,False,Italy,True,22.0,False
+Europe,Bosnia and Herzegovina,2020-03-05,Italy,2,,2020-03-23,,109,3,March,10,65,1,2020,True,1,False,Italy,True,18.0,True
+Europe,Vatican City,2020-03-05,,1,,,,109,3,March,10,65,1,2020,False,0,False,,False,,False
+Africa,Togo,2020-03-06,"Benin, Germany, France, Turkey",1,42,2020-03-27,,110,3,March,10,66,1,2020,True,4,True,Benin,True,21.0,False
+Africa,Togo,2020-03-06,"Benin, Germany, France, Turkey",1,42,2020-03-27,,110,3,March,10,66,1,2020,True,4,True,Germany,True,21.0,False
+Africa,Togo,2020-03-06,"Benin, Germany, France, Turkey",1,42,2020-03-27,,110,3,March,10,66,1,2020,True,4,True,France,True,21.0,False
+Africa,Togo,2020-03-06,"Benin, Germany, France, Turkey",1,42,2020-03-27,,110,3,March,10,66,1,2020,True,4,True,Turkey,True,21.0,False
+Africa,Cameroon,2020-03-06,France,1,58,2020-03-24,,110,3,March,10,66,1,2020,True,1,False,France,True,18.0,False
+Europe,Serbia,2020-03-06,Hungary,1,43,2020-03-20,59,110,3,March,10,66,1,2020,True,1,False,Hungary,True,14.0,False
+Asia,Bhutan,2020-03-06,India,1,76,,,110,3,March,10,66,1,2020,True,1,False,India,False,,False
+South America,Colombia,2020-03-06,Italy,1,19,2020-03-22,58,110,3,March,10,66,1,2020,True,1,False,Italy,True,16.0,False
+Europe,Slovakia,2020-03-06,Italy,1,52,2020-03-30,60,110,3,March,10,66,1,2020,True,1,False,Italy,True,24.0,False
+South America,Peru,2020-03-06,"Spain, France, Czech Republic",1,25,2020-03-19,78,110,3,March,10,66,1,2020,True,3,True,Spain,True,13.0,False
+South America,Peru,2020-03-06,"Spain, France, Czech Republic",1,25,2020-03-19,78,110,3,March,10,66,1,2020,True,3,True,France,True,13.0,False
+South America,Peru,2020-03-06,"Spain, France, Czech Republic",1,25,2020-03-19,78,110,3,March,10,66,1,2020,True,3,True,Czech Republic,True,13.0,False
+North America,Costa Rica,2020-03-06,United States,1,49,2020-03-18,87,110,3,March,10,66,1,2020,True,1,False,United States,True,12.0,False
+South America,Paraguay,2020-03-07,Ecuador,1,32,2020-03-20,,111,3,March,10,67,1,2020,True,1,False,Ecuador,True,13.0,False
+Europe,Moldova,2020-03-07,Italy,1,48,2020-03-18,61,111,3,March,10,67,1,2020,True,1,False,Italy,True,11.0,False
+Asia,Maldives,2020-03-07,Italy,2,,2020-04-30,83,111,3,March,10,67,1,2020,True,1,False,Italy,True,54.0,True
+Europe,Malta,2020-03-07,Italy,3,12,2020-04-08,92,111,3,March,10,67,1,2020,True,1,False,Italy,True,32.0,True
+Asia,Bangladesh,2020-03-08,Italy,3,,2020-03-18,70+,112,3,March,10,68,1,2020,True,1,False,Italy,True,10.0,True
+Asia,Bulgaria,2020-03-08,,4,"27, 25, No Trace, No Trace",2020-03-11,66,112,3,March,10,68,1,2020,False,0,False,,True,3.0,True
+Africa,Burkina Faso,2020-03-09,France,2,,2020-03-19,62,113,3,March,11,69,1,2020,True,1,False,France,True,10.0,True
+Europe,Albania,2020-03-09,Italy,2,"54,28",2020-03-11,73,113,3,March,11,69,1,2020,True,1,False,Italy,True,2.0,True
+Europe,Cyprus,2020-03-09,"Italy, United Kingdom",2,25,2020-03-28,67,113,3,March,11,69,1,2020,True,2,True,Italy,True,19.0,True
+Europe,Cyprus,2020-03-09,"Italy, United Kingdom",2,25,2020-03-28,67,113,3,March,11,69,1,2020,True,2,True,United Kingdom,True,19.0,True
+Asia,Brunei,2020-03-09,Malaysia,1,53,2020-03-28,64,113,3,March,11,69,1,2020,True,1,False,Malaysia,True,19.0,False
+North America,Panama,2020-03-09,Spain,1,40,2020-03-10,,113,3,March,11,69,1,2020,True,1,False,Spain,True,1.0,False
+Africa,Congo (Kinshasa),2020-03-10,Belgium,1,,2020-03-31,81,114,3,March,11,70,1,2020,True,1,False,Belgium,True,21.0,False
+Asia,Mongolia,2020-03-10,France,1,57,,,114,3,March,11,70,1,2020,True,1,False,France,False,,False
+South America,Bolivia,2020-03-10,Italy,2,"60,64",2020-03-30,78,114,3,March,11,70,1,2020,True,1,False,Italy,True,20.0,True
+North America,Honduras,2020-03-10,"Spain, Switzerland",2,"42,37",2020-03-26,60,114,3,March,11,70,1,2020,True,2,True,Spain,True,16.0,True
+North America,Honduras,2020-03-10,"Spain, Switzerland",2,"42,37",2020-03-26,60,114,3,March,11,70,1,2020,True,2,True,Switzerland,True,16.0,True
+North America,Jamaica,2020-03-10,United Kingdom,1,,2020-03-18,79,114,3,March,11,70,1,2020,True,1,False,United Kingdom,True,8.0,False
+Africa,Cote d'Ivoire,2020-03-11,Italy,1,45,2020-03-29,,115,3,March,11,71,1,2020,True,1,False,Italy,True,18.0,False
+North America,Cuba,2020-03-11,Italy,3,,2020-03-18,61,115,3,March,11,71,1,2020,True,1,False,Italy,True,7.0,True
+North America,Saint Vincent and the Grenadines,2020-03-11,United Kingdom,1,30+,,,115,3,March,11,71,1,2020,True,1,False,United Kingdom,False,,False
+Asia,Turkey,2020-03-11,Unspecified ,1,,2020-03-17,89,115,3,March,11,71,1,2020,True,1,False,Unspecified,True,6.0,False
+Africa,Gabon,2020-03-12,France,1,27,2020-03-20,50,116,3,March,11,72,1,2020,True,1,False,France,True,8.0,False
+Africa,Ghana,2020-03-12,"Norway, Turkey",2,,2020-03-21,61,116,3,March,11,72,1,2020,True,2,True,Norway,True,9.0,True
+Africa,Ghana,2020-03-12,"Norway, Turkey",2,,2020-03-21,61,116,3,March,11,72,1,2020,True,2,True,Turkey,True,9.0,True
+South America,Trinidad and Tobago,2020-03-12,Switzerland,1,52,2020-03-25,77,116,3,March,11,72,1,2020,True,1,False,Switzerland,True,13.0,False
+South America,Guyana,2020-03-12,United States,1,52,,52,116,3,March,11,72,1,2020,True,1,False,United States,False,,False
+Africa,Guinea,2020-03-13,Belgium,1,49,2020-04-15,75,117,3,March,11,73,1,2020,True,1,False,Belgium,True,33.0,False
+Africa,Ethiopia,2020-03-13,Burkina Faso,1,48,2020-04-05,60,117,3,March,11,73,1,2020,True,1,False,Burkina Faso,True,23.0,False
+Africa,Mauritania,2020-03-13,France,1,,2020-03-30,48,117,3,March,11,73,1,2020,True,1,False,France,True,17.0,False
+Asia,Kazakhstan,2020-03-13,Germany,2,,2020-03-26,,117,3,March,11,73,1,2020,True,1,False,Germany,True,13.0,True
+North America,Guatemala,2020-03-13,Italy,1,,2020-03-16,85,117,3,March,11,73,1,2020,True,1,False,Italy,True,3.0,False
+South America,Uruguay,2020-03-13,Italy ,4,,2020-03-28,71,117,3,March,11,73,1,2020,True,1,False,Italy,True,15.0,True
+Europe,Kosovo,2020-03-13,Italy ,2,"77,20",2020-03-22,,117,3,March,11,73,1,2020,True,1,False,Italy,True,9.0,True
+North America,Antigua and Barbuda,2020-03-13,United Kingdom,1,,2020-04-07,48,117,3,March,11,73,1,2020,True,1,False,United Kingdom,True,25.0,False
+North America,Saint Lucia,2020-03-13,United Kingdom,1,63,,,117,3,March,11,73,1,2020,True,1,False,United Kingdom,False,,False
+Africa,Sudan,2020-03-13,United Arab Emirates,1,50,2020-03-12,50,117,3,March,11,73,1,2020,True,1,False,United Arab Emirates,True,-1.0,False
+South America,Venezuela,2020-03-13,Unspecified ,2,31,2020-03-26,47,117,3,March,11,73,1,2020,True,1,False,Unspecified,True,13.0,True
+South America,Suriname,2020-03-13,Unspecified ,1,,2020-04-03,,117,3,March,11,73,1,2020,True,1,False,Unspecified,True,21.0,False
+Africa,Kenya,2020-03-13,"United States, United Kingdom",1,27,2020-03-26,66,117,3,March,11,73,1,2020,True,2,True,United States,True,13.0,False
+Africa,Kenya,2020-03-13,"United States, United Kingdom",1,27,2020-03-26,66,117,3,March,11,73,1,2020,True,2,True,United Kingdom,True,13.0,False
+Africa,Congo (Brazzaville),2020-03-14,France,1,50,2020-04-01,,118,3,March,11,74,1,2020,True,1,False,France,True,18.0,False
+Africa,Rwanda,2020-03-14,India,1,,,,118,3,March,11,74,1,2020,True,1,False,India,False,,False
+Africa,Seychelles,2020-03-14,Italy,2,,,,118,3,March,11,74,1,2020,True,1,False,Italy,False,,True
+Africa,Central African Republic,2020-03-14,Italy,1,74,,,118,3,March,11,74,1,2020,True,1,False,Italy,False,,False
+Africa,Namibia,2020-03-14,Spain,2,,,,118,3,March,11,74,1,2020,True,1,False,Spain,False,,True
+Africa,Equatorial Guinea,2020-03-14,Spain,1,42,2020-04-22,,118,3,March,11,74,1,2020,True,1,False,Spain,True,39.0,False
+Africa,Eswatini,2020-03-14,"United States, Lesotho",1,33,2020-04-16,59,118,3,March,11,74,1,2020,True,2,True,United States,True,33.0,False
+Africa,Eswatini,2020-03-14,"United States, Lesotho",1,33,2020-04-16,59,118,3,March,11,74,1,2020,True,2,True,Lesotho,True,33.0,False
+Asia,Uzbekistan,2020-03-15,France ,1,,2020-03-27,72,119,3,March,11,75,1,2020,True,1,False,France,True,12.0,False
+North America,Bahamas,2020-03-15,,1,61,2020-04-06,80,119,3,March,11,75,1,2020,False,0,False,,True,22.0,False
+Africa,Tanzania,2020-03-16,Belgium,1,46,2020-03-31,49,120,3,March,12,76,1,2020,True,1,False,Belgium,True,15.0,False
+Africa,Benin,2020-03-16,"Burkina Faso, Belgium",1,49,2020-04-06,43,120,3,March,12,76,1,2020,True,2,True,Burkina Faso,True,21.0,False
+Africa,Benin,2020-03-16,"Burkina Faso, Belgium",1,49,2020-04-06,43,120,3,March,12,76,1,2020,True,2,True,Belgium,True,21.0,False
+Africa,Somalia,2020-03-16,China,1,46,2020-04-08,58,120,3,March,12,76,1,2020,True,1,False,China,True,23.0,False
+Africa,Liberia,2020-03-16,Switzerland,1,,2020-04-04,72,120,3,March,12,76,1,2020,True,1,False,Switzerland,True,19.0,False
+Europe,Montenegro,2020-03-17,"Spain, United States",2,"72, 47",2020-03-23,65,121,3,March,12,77,1,2020,True,2,True,Spain,True,6.0,True
+Europe,Montenegro,2020-03-17,"Spain, United States",2,"72, 47",2020-03-23,65,121,3,March,12,77,1,2020,True,2,True,United States,True,6.0,True
+Africa,Gambia,2020-03-17,United Kingdom,1,,2020-03-23,70,121,3,March,12,77,1,2020,True,1,False,United Kingdom,True,6.0,False
+North America,Barbados,2020-03-17,United States,2,"38,39",2020-04-05,81,121,3,March,12,77,1,2020,True,1,False,United States,True,19.0,True
+Africa,Zambia,2020-03-18,France,2,,2020-04-02,,122,3,March,12,78,1,2020,True,1,False,France,True,15.0,True
+North America,Nicaragua,2020-03-18,Panama,1,40,2020-03-26,,122,3,March,12,78,1,2020,True,1,False,Panama,True,8.0,False
+Asia,Kyrgyzstan,2020-03-18,Saudi Arabia,3,,2020-04-03,60,122,3,March,12,78,1,2020,True,1,False,Saudi Arabia,True,16.0,True
+Africa,Djibouti,2020-03-18,Spain,1,,2020-04-09,,122,3,March,12,78,1,2020,True,1,False,Spain,True,22.0,False
+Africa,Mauritius,2020-03-18,"United Kingdom, Cruise Ship*",3,,2020-03-21,,122,3,March,12,78,1,2020,True,2,True,United Kingdom,True,3.0,True
+Africa,Mauritius,2020-03-18,"United Kingdom, Cruise Ship*",3,,2020-03-21,,122,3,March,12,78,1,2020,True,2,True,Cruise Ship*,True,3.0,True
+Africa,Chad,2020-03-19,Cameroon,1,,2020-03-19,,123,3,March,12,79,1,2020,True,1,False,Cameroon,True,0.0,False
+North America,El Salvador,2020-03-19,Italy,1,,2020-04-01,60,123,3,March,12,79,1,2020,True,1,False,Italy,True,13.0,False
+Africa,Niger,2020-03-19,"Togo,Cote d'Ivoire, Burkina Faso",1,36,2020-03-24,63,123,3,March,12,79,1,2020,True,3,True,Togo,True,5.0,False
+Africa,Niger,2020-03-19,"Togo,Cote d'Ivoire, Burkina Faso",1,36,2020-03-24,63,123,3,March,12,79,1,2020,True,3,True,Cote d'Ivoire,True,5.0,False
+Africa,Niger,2020-03-19,"Togo,Cote d'Ivoire, Burkina Faso",1,36,2020-03-24,63,123,3,March,12,79,1,2020,True,3,True,Burkina Faso,True,5.0,False
+Australia,Fiji,2020-03-19,,1,27,,,123,3,March,12,79,1,2020,False,0,False,,False,,False
+North America,Haiti,2020-03-19,United States,2,,2020-04-05,55,123,3,March,12,79,1,2020,True,1,False,United States,True,17.0,True
+Australia,Papua New Guinea,2020-03-20,Spain,1,45,,,124,3,March,12,80,1,2020,True,1,False,Spain,False,,False
+Africa,Madagascar,2020-03-20,,3,,,,124,3,March,12,80,1,2020,False,0,False,,False,,True
+Africa,Cabo Verde,2020-03-20,United Kingdom,1,62,2020-03-24,62,124,3,March,12,80,1,2020,True,1,False,United Kingdom,True,4.0,False
+Africa,Eritrea,2020-03-21,Norway,1,39,,,125,3,March,12,81,1,2020,True,1,False,Norway,False,,False
+Africa,Angola,2020-03-21,Portugal,2,"38,30+",2020-03-30,"59, 37",125,3,March,12,81,1,2020,True,1,False,Portugal,True,9.0,True
+Africa,Zimbabwe,2020-03-21,"United Kingdom, South Africa",1,38,2020-03-23,30,125,3,March,12,81,1,2020,True,2,True,United Kingdom,True,2.0,False
+Africa,Zimbabwe,2020-03-21,"United Kingdom, South Africa",1,38,2020-03-23,30,125,3,March,12,81,1,2020,True,2,True,South Africa,True,2.0,False
+Asia,Timor-Leste,2020-03-21,,1,,,,125,3,March,12,81,1,2020,False,0,False,,False,,False
+Africa,Mozambique,2020-03-22,United Kingdom,1,75,,,126,3,March,12,82,1,2020,True,1,False,United Kingdom,False,,False
+North America,Grenada,2020-03-22,United Kingdom,1,50,,,126,3,March,12,82,1,2020,True,1,False,United Kingdom,False,,False
+North America,Dominica,2020-03-22,United Kingdom,1,54,,,126,3,March,12,82,1,2020,True,1,False,United Kingdom,False,,False
+South America,Uganda,2020-03-22,United Arab Emirates,1,36,,,126,3,March,12,82,1,2020,True,1,False,United Arab Emirates,False,,False
+Asia,Syria,2020-03-22,,1,20,2020-03-29,,126,3,March,12,82,1,2020,False,0,False,,True,7.0,False
+North America,Belize,2020-03-23,United States,1,38,2020-04-07,54,127,3,March,13,83,1,2020,True,1,False,United States,True,15.0,False
+Asia,Myanmar,2020-03-23,"United States, United Kingdom",2,"36, 26",2020-03-31,69,127,3,March,13,83,1,2020,True,2,True,United States,True,8.0,True
+Asia,Myanmar,2020-03-23,"United States, United Kingdom",2,"36, 26",2020-03-31,69,127,3,March,13,83,1,2020,True,2,True,United Kingdom,True,8.0,True
+Africa,Libya,2020-03-24,Saudi Arabia. Tunisia,1,73,2020-04-02,85,128,3,March,13,84,1,2020,True,1,False,Saudi Arabia. Tunisia,True,9.0,False
+Asia,Laos,2020-03-24,"Thailand, Cambodia",2,"28, 36",,,128,3,March,13,84,1,2020,True,2,True,Thailand,False,,True
+Asia,Laos,2020-03-24,"Thailand, Cambodia",2,"28, 36",,,128,3,March,13,84,1,2020,True,2,True,Cambodia,False,,True
+North America,Saint Kitts and Nevis,2020-03-24,"United States, Italy",2,"21,57",,,128,3,March,13,84,1,2020,True,2,True,United States,False,,True
+North America,Saint Kitts and Nevis,2020-03-24,"United States, Italy",2,"21,57",,,128,3,March,13,84,1,2020,True,2,True,Italy,False,,True
+Africa,Guinea-Bissau,2020-03-25,Congo (Kinshasa),2,,2020-04-26,53,129,3,March,13,85,1,2020,True,1,False,Congo (Kinshasa),True,32.0,True
+Africa,Mali,2020-03-25,France,2,"49,62",2020-03-28,,129,3,March,13,85,1,2020,True,1,False,France,True,3.0,True
+Africa,Botswana,2020-03-30,"United Kingdom, Thailand",3,,2020-04-01,79,134,3,March,14,90,1,2020,True,2,True,United Kingdom,True,2.0,True
+Africa,Botswana,2020-03-30,"United Kingdom, Thailand",3,,2020-04-01,79,134,3,March,14,90,1,2020,True,2,True,Thailand,True,2.0,True
+Africa,Sierra Leone,2020-03-31,France,1,37,2020-04-23,"76,69",135,3,March,14,91,1,2020,True,1,False,France,True,23.0,False
+Africa,Burundi,2020-03-31,"Rwanda, United Arab Emirates",2,"56,42",2020-04-13,,135,3,March,14,91,1,2020,True,2,True,Rwanda,True,13.0,True
+Africa,Burundi,2020-03-31,"Rwanda, United Arab Emirates",2,"56,42",2020-04-13,,135,3,March,14,91,1,2020,True,2,True,United Arab Emirates,True,13.0,True
+Africa,Malawi,2020-04-01,India,3,"63, N/A, N/A",2020-04-07,51,136,4,April,14,92,2,2020,True,1,False,India,True,6.0,True
+Africa,Western Sahara,2020-04-04,,1,,,,139,4,April,14,95,2,2020,False,0,False,,False,,False
+Africa,South Sudan,2020-04-05,Ethiopia,1,29,2020-05-14,51,140,4,April,14,96,2,2020,True,1,False,Ethiopia,True,39.0,False
+Africa,Sao Tome and Principe,2020-04-06,,4,,2020-04-30,55,141,4,April,15,97,2,2020,False,0,False,,True,24.0,True
+Asia,Yemen,2020-04-10,,1,60,2020-04-29,,145,4,April,15,101,2,2020,False,0,False,,True,19.0,False
+Africa,Comoros,2020-04-30,France,1,50,2020-05-07,,165,4,April,18,121,2,2020,True,1,False,France,True,7.0,False
+Asia,Tajikistan,2020-04-30,,15,,2020-05-02,,165,4,April,18,121,2,2020,False,0,False,,True,2.0,True
+Africa,Lesotho,2020-05-13,Saudi Arabia,1,,,,178,5,May,20,134,2,2020,True,1,False,Saudi Arabia,False,,False
